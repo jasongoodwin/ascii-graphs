@@ -2,11 +2,11 @@ name := "ascii-graphs"
 
 organization := "com.github.mdr"
 
-version := "0.0.6"
+version := "0.0.6-FC"
 
-scalaVersion := "2.12.1"
+scalaVersion := "2.11.8"
 
-crossScalaVersions := Seq("2.9.1", "2.9.2", "2.10.1")
+crossScalaVersions := Seq("2.9.1", "2.9.2", "2.10.1", "2.11.8")
 
 scalacOptions ++= Seq("-deprecation")
 

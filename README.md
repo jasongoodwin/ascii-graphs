@@ -1,3 +1,5 @@
+(Fork targets scala 2.11)
+
 An ASCII-art diagram library for graphs. It supports both parsing existing diagrams and rendering graphs out as an ASCII diagram.
 
 You can use it via sbt:
